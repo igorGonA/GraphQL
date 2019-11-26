@@ -1,0 +1,16 @@
+Para executar o projeto Hello World
+
+Após o download dos arquivos, acesse via cmd ou terminal a pasta HelloWorld e execute os seguintes comandos:
+
+npm install express
+npm install apollo-server-express
+npm i iterall
+npm install graphql
+
+instalados os serviços listados acima, execute o comando abaixo para visualizar o caminho para consumir a API
+
+node index.js
+
+OBS: Normalmente o caminho é localhost:4000/graphql porém pode ser alterada.
+
+Para visualizar o retorno em uma interface própria do graphql basta acessar o caminhho acima citado ou para visualizar em uma página HTML, basta executar o arquivo index.html no qual faz o consumo da API.
